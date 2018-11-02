@@ -1,0 +1,87 @@
+#dwayne {
+    border-radius: 50%;
+    vertical-align: middle;
+    width: 300px;
+    height: 300px;    
+    margin-left: 300px; 
+    margin-top: 50px; 
+}
+
+#bio{
+    margin-top: 50px; 
+    color: black; 
+    font-family: 'Righteous', cursive;
+}
+
+h1{
+    font-family: 'Righteous', cursive;
+    margin-left: 530px; 
+    color: black; 
+}
+
+iframe {
+    margin-left: 150px; 
+}
+
+#resume{
+    margin-left: 300px; 
+    width: 260;
+    height: 315;
+}
+
+#gif{
+    margin-left: 950px; 
+    
+}
+
+#linkedin{
+    border-radius: 30%;
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;    
+}
+
+#youtube{
+    border-radius: 30%;
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;  
+    margin-left: 50px;  
+}
+
+#twitter{ 
+    border-radius: 30%;
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;  
+    margin-left: 50px;  
+
+}
+
+#ig{ 
+    border-radius: 30%;
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;  
+    margin-left: 50px;  
+
+}
+
+#email{
+    margin-left: 120px;
+    margin-top: 50px; 
+    position: relative; 
+}
+
+#who{
+    margin-left: 340px; 
+}
+
+#camera {
+    border-radius: 10%;
+    vertical-align: middle;
+    width: 500px;
+    height: 500px;    
+    margin-left: 400px; 
+    margin-top: 50px; 
+}
